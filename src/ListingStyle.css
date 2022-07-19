@@ -1,0 +1,9 @@
+/* Set core body defaults */
+.body {
+    height: 1000vh;
+    min-height: 100vh;
+    text-rendering: optimizeSpeed;
+    line-height: 1.5;
+    --hello: -100%;
+    padding-bottom: 1000px;
+  }
